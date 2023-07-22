@@ -58,6 +58,7 @@
     .jackets-card{
         flex-direction: column;
         /* border: 2px solid green; */
+        gap: 20px;
 
     }
     .type-title{
@@ -69,8 +70,33 @@
         /* margin: 0px; */
         /* padding: 0px; */
     }
+    .btn-primary{
+        width: 30vw;
+        font-size: 14px;
+        padding: 5px 5px;
+    }
+    
     .card{
-        width: 250px;
+        /* width: 250px; */
+        width: 60vw;
+    }
+    .card-img img{
+        width: 50vw;
+    }
+    .prod-name{
+        /* font-size: 12px; */
+    }
+    .prod-name{
+        border: 2px solid red;
+    }
+    
+    .prod-desc{
+        width: 50vw;
+        font-size: 14px;
+        /* border: 2px solid red; */
+    }
+    .price{
+        font-size: 30px;
     }
     
    
