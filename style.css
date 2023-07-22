@@ -110,7 +110,7 @@ main {
   /* padding: 10px 135px; */
   width: 80vw;
   margin: auto;
-  border: 2px solid red;
+  /* border: 2px solid red; */
 }
 .title-div{
   text-align: left;
@@ -160,6 +160,9 @@ main {
   margin: 0px;
 
   /* border: 2px solid blue; */
+}
+.prod-name{
+  /* font-size: px; */
 }
 .prod-desc {
   width: 250px;

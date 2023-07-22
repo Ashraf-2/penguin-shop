@@ -64,9 +64,9 @@
     .type-title{
         font-size: 25px;
         /* width: 100%; */
-        border: 2px solid green;
-        width: 200px;
-        text-align: left;
+        /* border: 2px solid green; */
+        /* width: 200px; */
+        text-align: center;
         /* margin: 0px; */
         /* padding: 0px; */
     }
@@ -83,11 +83,9 @@
     .card-img img{
         width: 50vw;
     }
-    .prod-name{
-        /* font-size: 12px; */
-    }
-    .prod-name{
-        border: 2px solid red;
+    .prod-description-whole h2{
+        /* border: 2px solid green; */
+        font-size: 20px;
     }
     
     .prod-desc{
