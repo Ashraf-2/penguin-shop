@@ -1,0 +1,77 @@
+@media screen and (max-width: 576px) {
+    .nav-container, .nav-bar{
+        flex-direction: column;
+        gap: 0px;
+        /* padding: 0px; */
+
+    }    
+    .banner{
+        /* width: 50%; */
+        /* width: 100%; */
+        flex-direction: column;
+        margin: 0px;
+        padding: 20px 0px;
+        gap: 20px;
+        /* width: 300px; */
+    }
+    .banner-description{
+        text-align: center;
+        /* width: 200px; */
+        /* text-align: left; */
+        width: 100%;
+        margin: 0px;
+        padding: 0px;
+        /* padding: 0px 550px; */
+        /* border: 2px solid red; */
+    }
+    .banner-title{
+        font-size: 30px;
+        text-align: center;
+        padding-bottom: 10px 0px;
+        /* border: 2px solid blue; */
+    }
+    .bnr-des-p{
+        /* position: relative; */
+        /* width: 150px; */
+        /* width: 100%; */
+        /* width: 180px; */
+        /* border: 2px solid red; */
+        font-size: 12px;
+        text-align: center;
+        /* float: right; */
+        /* left: 140px; */
+        /* left: 32%; */
+        margin: 0px;
+        padding: 5px 100px;
+    }  
+    .banner-img img{
+        /* width: 70%; */
+        position: relative;
+        padding: 0px;
+        margin: 0px;
+        left: 40px;
+    }
+    
+
+
+    /* product category style */
+    .jackets-card{
+        flex-direction: column;
+        /* border: 2px solid green; */
+
+    }
+    .type-title{
+        font-size: 25px;
+        /* width: 100%; */
+        border: 2px solid green;
+        width: 200px;
+        text-align: left;
+        /* margin: 0px; */
+        /* padding: 0px; */
+    }
+    .card{
+        width: 250px;
+    }
+    
+   
+}
